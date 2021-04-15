@@ -27,5 +27,8 @@ git push origin takelushi
 * `getting_started_docker.md`
 
 ```sh
+# Example
 util/docker_build.sh crkbd/rev1:default
+# => Dest to .build/
+ls .build/
 ```
